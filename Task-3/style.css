@@ -1198,9 +1198,6 @@ footer {
     
     .treatment-content h3 {
         font-size: 1rem;
-        font-weight: 400;
-        margin-bottom: 0.2rem;
-        color: var(--dark-color);
     }
     .vision-mission-grid {
         display: grid;
